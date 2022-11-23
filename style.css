@@ -106,3 +106,24 @@ html{
     
 }
 
+.videos{
+    display:flex;
+    flex-direction: row; 
+    border-radius: 30px;
+}
+.first{ 
+    margin-left: 7rem;
+    margin-top: 2rem;
+}
+.first iframe{
+    border-radius: 30px;
+}
+.title{
+    display: flex;
+    flex-direction: row;
+}
+.verification{
+    font-size: 1rem;
+}
+.paragraph{
+    color: #9b9b9b; }
